@@ -81,10 +81,4 @@ int main()
             file_out << endl;
 
     }
-
-
-
-
-
-
 }
